@@ -1,4 +1,4 @@
-# NodeJS Transaction Assessment
+# transaction ingestion backend
 
 This project implements a transaction ingestion backend with:
 
